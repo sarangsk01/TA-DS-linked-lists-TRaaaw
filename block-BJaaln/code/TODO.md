@@ -18,7 +18,7 @@ step-5: After repeating all the above steps you will get a sorted array
 
 ![Bubble Sort Example](./bubble.png)
 
-<!-- You answer -->
+<!-- You answer --> console.log('');
 
 2. Create a function named `mergeSort` that accepts an array of numbers and returns the array with sorted values. The elements should be in ascending order. Use the bubble sorting algorithms. After writing the function test it with an array and check if you are getting the right output.
 
