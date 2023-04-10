@@ -21,7 +21,7 @@ step-4: Now we will repeat the step 1, 2 and 3 but we will keep in mind not to t
 <!-- You answer -->
 
 2. Create a function named `bubbleSort` that accepts an array of numbers and returns the array with sorted values. The elements should be in ascending order. Use the bubble sorting algorithms. After writing the function test it with an array and check if you are getting the right output.
-
+console.log('');
 ```js
 function bubbleSort() {
   // your code
