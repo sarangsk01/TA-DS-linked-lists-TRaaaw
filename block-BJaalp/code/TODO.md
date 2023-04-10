@@ -30,7 +30,8 @@
     It will remove the new node at the end of the linked list.
 
 ```js
-// Your code goes here
+// Your code goes here 
+console.log('');
 
 // Test
 let list = new LinkedList(10);
